@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - beemarkable blog</title>
+        <link>https://beemarkable.github.io/posts/</link>
+        <description>All Posts | beemarkable blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 21 Oct 2025 21:06:10 &#43;0100</lastBuildDate><atom:link href="https://beemarkable.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Mypost</title>
+    <link>https://beemarkable.github.io/posts/mypost/</link>
+    <pubDate>Tue, 21 Oct 2025 21:06:10 &#43;0100</pubDate>
+    <author>xxxx</author>
+    <guid>https://beemarkable.github.io/posts/mypost/</guid>
+    <description><![CDATA[hello]]></description>
+</item>
+</channel>
+</rss>
