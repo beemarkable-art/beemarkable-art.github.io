@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quotes on BeeMarkable.art</title>
+    <link>http://localhost:1313/categories/quotes/</link>
+    <description>Recent content in Quotes on BeeMarkable.art</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>beemarkableart@gmail.com (Emilija)</managingEditor>
+    <webMaster>beemarkableart@gmail.com (Emilija)</webMaster>
+    <copyright>‎{year} © BeeMarkable </copyright><atom:link href="http://localhost:1313/categories/quotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quotes Collection</title>
+      <link>http://localhost:1313/quotes/quote-collection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>beemarkableart@gmail.com (Emilija)</author>
+      <guid>http://localhost:1313/quotes/quote-collection/</guid>
+        <media:content url="http://localhost:1313/quotes/quote-collection/2025-03-24_16-34-05_UTC_1_hu5784349597846218223.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/quotes/quote-collection/2025-03-24_16-34-05_UTC_1_hu5784349597846218223.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Quotes for Your Birth Month</title>
+      <link>http://localhost:1313/quotes/quotes-of-the-month/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>beemarkableart@gmail.com (Emilija)</author>
+      <guid>http://localhost:1313/quotes/quotes-of-the-month/</guid>
+        <media:content url="http://localhost:1313/quotes/quotes-of-the-month/2025-05-29_18-25-31_UTC_1_hu10645378439241569536.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/quotes/quotes-of-the-month/2025-05-29_18-25-31_UTC_1_hu10645378439241569536.jpg&quot; /&gt;
+          &lt;p&gt;A Quote for Every Birth Month&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Valentine&#39;s Day Quotes</title>
+      <link>http://localhost:1313/quotes/valentines-day-quotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>beemarkableart@gmail.com (Emilija)</author>
+      <guid>http://localhost:1313/quotes/valentines-day-quotes/</guid>
+        <media:content url="http://localhost:1313/quotes/valentines-day-quotes/Cute-Gift-Idea-%EF%B8%8F_hu15667424365590918911.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/quotes/valentines-day-quotes/Cute-Gift-Idea-%EF%B8%8F_hu15667424365590918911.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
