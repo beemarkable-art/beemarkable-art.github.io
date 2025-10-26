@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sketches on BeeMarkable.art</title>
-    <link>http://localhost:1313/categories/sketches/</link>
+    <link>https://beemarkable.github.io/categories/sketches/</link>
     <description>Recent content in Sketches on BeeMarkable.art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>beemarkableart@gmail.com (Emilija)</managingEditor>
     <webMaster>beemarkableart@gmail.com (Emilija)</webMaster>
-    <copyright>‎{year} © BeeMarkable </copyright><atom:link href="http://localhost:1313/categories/sketches/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>‎{year} © BeeMarkable </copyright><atom:link href="https://beemarkable.github.io/categories/sketches/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sketches</title>
-      <link>http://localhost:1313/sketches/</link>
+      <link>https://beemarkable.github.io/sketches/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>beemarkableart@gmail.com (Emilija)</author>
-      <guid>http://localhost:1313/sketches/</guid>
-        <media:content url="http://localhost:1313/sketches/2025-09-28_16-16-38_UTC_1_hu5544689425755392366.jpg" type="image/jpeg"/>
+      <guid>https://beemarkable.github.io/sketches/</guid>
+        <media:content url="https://beemarkable.github.io/sketches/2025-09-28_16-16-38_UTC_1_hu5544689425755392366.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/sketches/2025-09-28_16-16-38_UTC_1_hu5544689425755392366.jpg&quot; /&gt;
+          &lt;img src=&quot;https://beemarkable.github.io/sketches/2025-09-28_16-16-38_UTC_1_hu5544689425755392366.jpg&quot; /&gt;
           &lt;p&gt;Through the delicate dance of pencil and paper, imagination finds its form. This category honors the art of illustration — where every line, shade, and curve tells a story born from creativity, emotion, and exploration. From abstract visions to lifelike portraits, these sketches capture moments that exist beyond words.&lt;/p&gt;
         </description></item>
   </channel>

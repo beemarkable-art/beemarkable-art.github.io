@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial on BeeMarkable.art</title>
-    <link>http://localhost:1313/categories/tutorial/</link>
+    <link>https://beemarkable.github.io/categories/tutorial/</link>
     <description>Recent content in Tutorial on BeeMarkable.art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>beemarkableart@gmail.com (Emilija)</managingEditor>
     <webMaster>beemarkableart@gmail.com (Emilija)</webMaster>
-    <copyright>‎{year} © BeeMarkable </copyright><atom:link href="http://localhost:1313/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>‎{year} © BeeMarkable </copyright><atom:link href="https://beemarkable.github.io/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>how to draw</title>
-      <link>http://localhost:1313/how-to-draw/</link>
+      <link>https://beemarkable.github.io/how-to-draw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>beemarkableart@gmail.com (Emilija)</author>
-      <guid>http://localhost:1313/how-to-draw/</guid>
-        <media:content url="http://localhost:1313/how-to-draw/how-to-draw-a-baseball-step-by-step-tutorial-for-beginners_hu7926636752191410131.webp" type="image/jpeg"/>
+      <guid>https://beemarkable.github.io/how-to-draw/</guid>
+        <media:content url="https://beemarkable.github.io/how-to-draw/how-to-draw-a-baseball-step-by-step-tutorial-for-beginners_hu7926636752191410131.webp" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/how-to-draw/how-to-draw-a-baseball-step-by-step-tutorial-for-beginners_hu7926636752191410131.webp&quot; /&gt;
+          &lt;img src=&quot;https://beemarkable.github.io/how-to-draw/how-to-draw-a-baseball-step-by-step-tutorial-for-beginners_hu7926636752191410131.webp&quot; /&gt;
           &lt;p&gt;Learn to draw with simple tutorials and inspiring examples that bring your ideas to life.&lt;/p&gt;
         </description></item>
   </channel>
