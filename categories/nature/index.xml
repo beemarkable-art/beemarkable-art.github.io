@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nature on BeeMarkable.art</title>
-    <link>https://beemarkable.github.io/categories/nature/</link>
+    <link>http://localhost:1313/categories/nature/</link>
     <description>Recent content in Nature on BeeMarkable.art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>beemarkableart@gmail.com (Emilija)</managingEditor>
     <webMaster>beemarkableart@gmail.com (Emilija)</webMaster>
-    <copyright>‎{year} © BeeMarkable </copyright><atom:link href="https://beemarkable.github.io/categories/nature/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>‎{year} © BeeMarkable </copyright><atom:link href="http://localhost:1313/categories/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Animals &amp; Nature</title>
-      <link>https://beemarkable.github.io/animals--nature/</link>
+      <link>http://localhost:1313/animals--nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>beemarkableart@gmail.com (Emilija)</author>
-      <guid>https://beemarkable.github.io/animals--nature/</guid>
-        <media:content url="https://beemarkable.github.io/animals--nature/2024-08-14_20-21-46_UTC_1_hu3311581841216812551.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/animals--nature/</guid>
+        <media:content url="http://localhost:1313/animals--nature/2024-08-14_20-21-46_UTC_1_hu3311581841216812551.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://beemarkable.github.io/animals--nature/2024-08-14_20-21-46_UTC_1_hu3311581841216812551.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/animals--nature/2024-08-14_20-21-46_UTC_1_hu3311581841216812551.jpg&quot; /&gt;
           &lt;p&gt;A vivid journey through the natural world, where life thrives in countless forms and colors. This category celebrates the beauty, mystery, and harmony of all living beings — from the smallest flutter in the air to the grandest expression of the wild. It’s a tribute to nature’s endless creativity and the deep connection we share with it.&lt;/p&gt;
         </description></item>
   </channel>

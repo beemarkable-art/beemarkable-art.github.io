@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://beemarkable.github.io/people/</loc>
+    <loc>http://localhost:1313/people/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://beemarkable.github.io/quotes/</loc>
+    <loc>http://localhost:1313/quotes/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/animals--nature/</loc>
+    <loc>http://localhost:1313/animals--nature/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/anime/</loc>
+    <loc>http://localhost:1313/anime/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/how-to-draw/</loc>
+    <loc>http://localhost:1313/how-to-draw/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/other/</loc>
+    <loc>http://localhost:1313/other/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/quotes/quote-collection/</loc>
+    <loc>http://localhost:1313/quotes/quote-collection/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/quotes/quotes-of-the-month/</loc>
+    <loc>http://localhost:1313/quotes/quotes-of-the-month/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/sketches/</loc>
+    <loc>http://localhost:1313/sketches/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/quotes/valentines-day-quotes/</loc>
+    <loc>http://localhost:1313/quotes/valentines-day-quotes/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://beemarkable.github.io/people/celebrity-portraits/</loc>
+    <loc>http://localhost:1313/people/celebrity-portraits/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://beemarkable.github.io/categories/people/</loc>
+    <loc>http://localhost:1313/categories/people/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://beemarkable.github.io/people/people/</loc>
+    <loc>http://localhost:1313/people/people/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://beemarkable.github.io/categories/portraits/</loc>
+    <loc>http://localhost:1313/categories/portraits/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://beemarkable.github.io/people/portraits/</loc>
+    <loc>http://localhost:1313/people/portraits/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://beemarkable.github.io/categories/celebrities/</loc>
+    <loc>http://localhost:1313/categories/celebrities/</loc>
     <lastmod>2023-01-12T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://beemarkable.github.io/people/celebrities/</loc>
+    <loc>http://localhost:1313/people/celebrities/</loc>
     <lastmod>2023-01-12T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://beemarkable.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/categories/animals/</loc>
+    <loc>http://localhost:1313/categories/animals/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/categories/anime/</loc>
+    <loc>http://localhost:1313/categories/anime/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/categories/nature/</loc>
+    <loc>http://localhost:1313/categories/nature/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/categories/other/</loc>
+    <loc>http://localhost:1313/categories/other/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/categories/quotes/</loc>
+    <loc>http://localhost:1313/categories/quotes/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/categories/sketches/</loc>
+    <loc>http://localhost:1313/categories/sketches/</loc>
   </url><url>
-    <loc>https://beemarkable.github.io/categories/tutorial/</loc>
+    <loc>http://localhost:1313/categories/tutorial/</loc>
   </url>
 </urlset>
